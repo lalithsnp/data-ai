@@ -1,0 +1,9 @@
+{
+	"name": "testingdatafac1289",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "208baac3-ce7b-4d86-89cf-e1b6dbaf53b0",
+		"tenantId": "30bf9f37-d550-4878-9494-1041656caf27"
+	}
+}
